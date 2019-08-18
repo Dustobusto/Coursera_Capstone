@@ -1,0 +1,4 @@
+A business wants to set up a new bicycle shop in Portland. They don't want it to be near too many other bicycle shops, but they also are afraid of what a Cascadian Fault 9.0 earthquake could do to the business when it strikes. A study has been launched to map out the Portland Neighborhoods with the highest levels of building liquefaction, as well as the highest concentration of bicycle shops. 
+
+Data has been retrieved from the PortlandMaps - Open Data project, as well as accessed via Foursquare API. 
+(https://gis-pdx.opendata.arcgis.com/datasets)
